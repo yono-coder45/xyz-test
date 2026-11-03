@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-11-03T00:16:00Z",
-  "run_id": "dcf5c21d",
+  "updated_at": "2026-11-03T01:28:25Z",
+  "run_id": "121f483c",
   "mode": "normal",
   "btc_4h_status": "below_EMA200_4H",
   "pionex_source_used": "pionex_api_1",
