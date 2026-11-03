@@ -2,7 +2,7 @@ name: Bot Scanner Multi-Timeframe
 
 on:
   schedule:
-    - cron: "47 * * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 concurrency:
